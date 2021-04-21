@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.4.2)
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
+  - SKActivityIndicatorView (1.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - SDWebImage
+  - SKActivityIndicatorView
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SDWebImage
+    - SKActivityIndicatorView
+
+SPEC CHECKSUMS:
+  Alamofire: bfbc4c2fe5909b1d94fb4ef2277c6b3727ef5dae
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
+  SKActivityIndicatorView: 81c123380127ad497f9b57cd4d11347e40ab3427
+
+PODFILE CHECKSUM: 30b1f1b4fa2f277e29e2936f7105e5dabfa051a5
+
+COCOAPODS: 1.10.1
